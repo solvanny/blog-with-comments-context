@@ -7,10 +7,10 @@ const styles = {
   },
 
   date: {
-    margin: '1em 1em 0em 3em'
+    margin: '0em 1em 0em 3em'
   },
   text: {
-    margin: '1em 1em 0em 3em'
+    margin: '0em 1em 2em 3em'
   }
 };
 
